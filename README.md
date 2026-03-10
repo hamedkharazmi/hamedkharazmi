@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hamed%20Kharazmi&fontAlign=70&rotate=13&fontAlignY=25&desc=AI%20&%20ML%20Engineer&descAlign=60&descAlignY=44))
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Hamed.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70&desc=Desc&descAlign=20)
+
+
 ## Hi there 👋
 
 <!--
