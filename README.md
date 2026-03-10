@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hamed%20Kharazmi&height=150&fontSize=60&desc=AI%20and%20ML%20Engineer&descAlignY=75&descAlign=60)
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hamed%20Kharazmi&fontAlign=65&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
+
 
 ## Hi there 👋
 
