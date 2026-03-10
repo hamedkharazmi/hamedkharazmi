@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hamed%20Kharazmi&fontSize=90)
+![header]([https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hamed%20Kharazmi&fontSize=90](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hamed%20Kharazmi&fontAlign=70&rotate=13&fontAlignY=25&desc=AI%20&%20ML%20Engineer&descAlign=60&descAlignY=44))
 
 ## Hi there 👋
 
