@@ -1,11 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Hamed.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&desc=AI%20and%20ML%20Engineer&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=AI&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&desc=Engineer&descAlignY=75&descAlign=55)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hamed%20Kharazmi&height=150&fontSize=60&desc=AI%20and%20ML%20Engineer&descAlignY=75&descAlign=60)
+
 
 
 ## Hi there 👋
 
 <!--
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Hamed.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&desc=AI%20and%20ML%20Engineer&descAlignY=75&descAlign=60)
+
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hamed%20Kharazmi&height=150&fontSize=60&desc=AI%20and%20ML%20Engineer&descAlignY=75&descAlign=60)
+
 **hamedkharazmi/hamedkharazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
