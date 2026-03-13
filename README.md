@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-I'm Hamed, AI & Machine Learning Engineer building real-world intelligent systems.
+I'm Hamed, an AI & Machine Learning Engineer building real-world intelligent systems.
 
 I have 4+ years of experience developing production-grade AI systems across **computer vision, 3D vision, and LLM-based applications**. I enjoy designing end-to-end machine learning workflows — from acquiring and preparing data to developing models, optimizing pipelines, and deploying solutions on cloud and edge platforms.
 
