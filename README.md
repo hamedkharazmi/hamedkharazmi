@@ -3,6 +3,7 @@
 # Hi there 👋, I'm Hamed
 
 I'm an AI & Machine Learning Engineer building production-ready intelligent systems. My work spans computer vision, 3D reasoning, deep learning, and LLM applications, covering the full ML lifecycle — from data acquisition and modeling to cloud and edge deployment.
+
 ---
 
 ## 🔬 What I Work On
@@ -46,13 +47,6 @@ Tech: Python • PyTorch | Outcome: Geospatial AI pipeline for high-resolution i
 **LLM / AI Systems:** RAG • Vector DB • Semantic Retrieval  
 **Deployment:** Docker • Edge AI (NVIDIA) • Cloud ML Pipelines  
 **Databases:** PostgreSQL • ElasticSearch • Vector Databases  
-
----
-
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/hamed-kharazmi)  
-- Email: hk.hamedkharazmi@gmail.com  
-- Telegram: [Hamed_7799](https://t.me/Hamed_7799)  
 
 <!--
 
