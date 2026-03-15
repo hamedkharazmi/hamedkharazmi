@@ -1,83 +1,59 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=AI&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
+# Hi there 👋, I'm Hamed
 
-# Hi there 👋
-
-I'm Hamed, an AI & Machine Learning Engineer building real-world intelligent systems.
-
-I have 4+ years of experience developing production-grade AI systems across **computer vision, 3D vision, and LLM-based applications**. I enjoy designing end-to-end machine learning workflows — from acquiring and preparing data to developing models, optimizing pipelines, and deploying solutions on cloud and edge platforms.
-
+I'm an AI & Machine Learning Engineer building production-ready intelligent systems. My work spans computer vision, 3D reasoning, deep learning, and LLM applications, covering the full ML lifecycle — from data acquisition and modeling to cloud and edge deployment.
 ---
 
 ## 🔬 What I Work On
-
 My work sits at the intersection of:
 
-- Computer Vision
-- 3D Vision & Geometric Reasoning
-- Deep Learning
-- LLM Applications
-- AI Systems & ML Pipelines
-
-In recent roles I’ve focused primarily on **vision systems**, combining classical techniques with deep learning to build reliable solutions for real-world environments. I’ve also worked on **language models and retrieval systems**, applying modern NLP and RAG approaches to practical AI tools.
+- **Computer Vision & 3D Vision**: Image/video processing, object detection, visual SLAM, point cloud analysis, remote sensing pipelines.  
+- **Deep Learning & LLM Applications**: RAG, semantic retrieval, AI assistants, and real-time inference systems.  
+- **AI Systems & ML Pipelines**: Designing production-ready pipelines and developer tools.
 
 ---
 
 ## 🧠 Selected Work
+Here are some projects that showcase my impact:
 
-### Multimodal Video Intelligence System
-Designed an AI system for analyzing conference and keynote videos by jointly processing **video, audio, and presentation data**.
+### 1. [CodePulse](https://github.com/hamedkharazmi/CodePulse)  
+**AI assistant for analyzing git history and explaining code evolution.**  
+Tech: Python • LLMs • ChromaDB | Outcome: Onboarding & debugging tool for engineers
 
-### AI Commit Analysis Assistant
-Built an AI assistant capable of answering questions about **Git commit history**.
+### 2. [Doc-Search-Engine-MCP](https://github.com/hamedkharazmi/Doc-Search-Engine-MCP)  
+**AI-powered document search engine using MCP tools.**  
+Tech: Python • FastMCP • Vector DB | Outcome: Efficient RAG-ready knowledge base
 
-### Emotion Detection System
-Developed a **multi-label emotion classification model** for noisy social media text.
+### 3. [CodeCollab](https://github.com/hamedkharazmi/CodeCollab)  
+**Real-time coding interview platform with session replay and sandboxed execution.**  
+Tech: TypeScript • React • FastAPI | Outcome: Collaborative coding & assessment tool
 
-## 👁 Computer Vision & 3D Vision
-My work in computer vision includes:
-- Image & Video Processing
-- Object Detection & Recognition
-- Camera Calibration
-- Feature Detection & Matching
-- 3D Reconstruction
-- Structure from Motion (SfM)
-- Visual SLAM & Visual Odometry
-- Point Cloud Processing
-- Remote Sensing & Geospatial AI
-I’ve built real-time pipelines deployed on **NVIDIA edge systems** for image analytics and spatial reconstruction.
+### 4. [Impact-Scope](https://github.com/hamedkharazmi/Impact-Scope)  
+**Change Impact Analysis tool for large C codebases.**  
+Tech: Python • Static Analysis | Outcome: Developer-first code risk assessment
+
+### 5. [ResFPN-Classification](https://github.com/hamedkharazmi/ResFPN-Classificaion)  
+**Satellite Image Classification with ResNet+FPN.**  
+Tech: Python • PyTorch | Outcome: Geospatial AI pipeline for high-resolution imagery
 
 ---
 
 ## ⚙️ Tech Stack
-
-**Languages**
-Python • C++ • MATLAB
-
-**Machine Learning**
-PyTorch • TensorFlow • Scikit-Learn • OpenCV
-
-**Data & ML Tools**
-NumPy • Pandas • MLflow • Optuna
-
-**LLM / AI Systems**
-RAG • Vector Databases • Semantic Retrieval
-
-**Deployment**
-Docker • ML Pipelines • Edge AI (NVIDIA)
-
-**Databases**
-PostgreSQL • ElasticSearch • Vector Databases
+**Languages:** Python • C++ • MATLAB  
+**ML / DL:** PyTorch • TensorFlow • Scikit-Learn • OpenCV  
+**Data & AI Tools:** NumPy • Pandas • MLflow • Optuna  
+**LLM / AI Systems:** RAG • Vector DB • Semantic Retrieval  
+**Deployment:** Docker • Edge AI (NVIDIA) • Cloud ML Pipelines  
+**Databases:** PostgreSQL • ElasticSearch • Vector Databases  
 
 ---
 
 ## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/hamed-kharazmi)  
+- Email: hk.hamedkharazmi@gmail.com  
+- Telegram: [Hamed_7799](https://t.me/Hamed_7799)  
 
-LinkedIn  
-https://www.linkedin.com/in/hamed-kharazmi
-
-Email  
-hk.hamedkharazmi@gmail.com
 <!--
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Hamed.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&desc=AI%20and%20ML%20Engineer&descAlignY=75&descAlign=60)
