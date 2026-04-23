@@ -2,51 +2,91 @@
 
 # Hi there 👋, I'm Hamed
 
-I'm an AI & Machine Learning Engineer building production-ready intelligent systems. My work spans computer vision, 3D reasoning, deep learning, and LLM applications, covering the full ML lifecycle — from data acquisition and modeling to cloud and edge deployment.
+I'm an AI & Machine Learning Engineer building production-ready intelligent systems and data platforms. My work spans computer vision, deep learning, and large-scale data engineering systems — covering the full lifecycle from data ingestion and processing to model deployment and real-time serving.
 
 ---
 
 ## 🔬 What I Work On
+
 My work sits at the intersection of:
 
-- **Computer Vision & 3D Vision**: Image/video processing, object detection, visual SLAM, point cloud analysis, remote sensing pipelines.  
-- **Deep Learning & LLM Applications**: RAG, semantic retrieval, AI assistants, and real-time inference systems.  
-- **AI Systems & ML Pipelines**: Designing production-ready pipelines and developer tools.
+### Computer Vision & 3D Vision
+Image/video processing, object detection, visual SLAM, point cloud analysis, and remote sensing pipelines.
+
+### Deep Learning & LLM Applications
+RAG systems, semantic retrieval, AI assistants, and real-time inference pipelines.
+
+### Data Engineering & AI Systems
+End-to-end data platforms, streaming pipelines, analytics engineering (dbt), and cloud-native architectures.
 
 ---
 
 ## 🧠 Selected Work
-Here are some projects that showcase my impact:
 
-### 1. [CodePulse](https://github.com/hamedkharazmi/CodePulse)  
-**AI assistant for analyzing git history and explaining code evolution.**  
-Tech: Python • LLMs • ChromaDB | Outcome: Onboarding & debugging tool for engineers
+Here are some projects that showcase my work:
 
-### 2. [Doc-Search-Engine-MCP](https://github.com/hamedkharazmi/Doc-Search-Engine-MCP)  
-**AI-powered document search engine using MCP tools.**  
-Tech: Python • FastMCP • Vector DB | Outcome: Efficient RAG-ready knowledge base
+### 1. Real-Time Industrial Data Platform (NEW ⭐)
+End-to-end data pipeline for industrial sensor data with real-time ingestion, transformation, and analytics on GCP.
 
-### 3. [CodeCollab](https://github.com/hamedkharazmi/CodeCollab)  
-**Real-time coding interview platform with session replay and sandboxed execution.**  
-Tech: TypeScript • React • FastAPI | Outcome: Collaborative coding & assessment tool
+Tech: Kafka • BigQuery • dbt • Kestra • Terraform  
+Outcome: Scalable data platform for real-time monitoring and analytics
 
-### 4. [Impact-Scope](https://github.com/hamedkharazmi/Impact-Scope)  
-**Change Impact Analysis tool for large C codebases.**  
-Tech: Python • Static Analysis | Outcome: Developer-first code risk assessment
+---
 
-### 5. [ResFPN-Classification](https://github.com/hamedkharazmi/ResFPN-Classificaion)  
-**Satellite Image Classification with ResNet+FPN.**  
-Tech: Python • PyTorch | Outcome: Geospatial AI pipeline for high-resolution imagery
+### 2. CodePulse
+AI assistant for analyzing git history and explaining code evolution.  
+Tech: Python • LLMs • ChromaDB  
+Outcome: Developer onboarding and debugging tool
+
+---
+
+### 3. Doc-Search-Engine-MCP
+AI-powered document search engine using MCP tools.  
+Tech: Python • FastMCP • Vector DB  
+Outcome: RAG-ready knowledge base system
+
+---
+
+### 4. CodeCollab
+Real-time coding interview platform with session replay and sandboxed execution.  
+Tech: TypeScript • React • FastAPI  
+Outcome: Collaborative coding and assessment tool
+
+---
+
+### 5. Impact-Scope
+Change Impact Analysis tool for large C codebases.  
+Tech: Python • Static Analysis  
+Outcome: Code risk and dependency analysis system
+
+---
+
+### 6. ResFPN-Classification
+Satellite Image Classification using ResNet + Feature Pyramid Networks.  
+Tech: PyTorch • Python  
+Outcome: Geospatial AI pipeline for remote sensing imagery
 
 ---
 
 ## ⚙️ Tech Stack
-**Languages:** Python • C++ • MATLAB  
-**ML / DL:** PyTorch • TensorFlow • Scikit-Learn • OpenCV  
-**Data & AI Tools:** NumPy • Pandas • MLflow • Optuna  
-**LLM / AI Systems:** RAG • Vector DB • Semantic Retrieval  
-**Deployment:** Docker • Edge AI (NVIDIA) • Cloud ML Pipelines  
-**Databases:** PostgreSQL • ElasticSearch • Vector Databases  
+
+### Languages
+Python • C++ • MATLAB
+
+### ML / DL
+PyTorch • TensorFlow • Scikit-Learn • OpenCV
+
+### Data & AI Systems
+NumPy • Pandas • MLflow • dbt • Kafka
+
+### LLM / AI Systems
+RAG • Vector Databases • Semantic Retrieval • LLM APIs
+
+### Deployment & Infra
+Docker • Cloud ML Pipelines • Edge AI (NVIDIA)
+
+### Databases
+PostgreSQL • Elasticsearch • BigQuery • Vector Databases
 
 <!--
 
