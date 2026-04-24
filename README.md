@@ -25,7 +25,14 @@ End-to-end data platforms, streaming pipelines, analytics engineering (dbt), and
 
 Here are some projects that showcase my work:
 
-### 1. Real-Time Industrial Data Platform (NEW ⭐)
+### 1. [CodePulse](https://github.com/hamedkharazmi/CodePulse)  
+Agent-Based AI assistant for analyzing git history and explaining code evolution.  
+Tech: Python • LLMs • ChromaDB  
+Outcome: Developer onboarding and debugging tool
+
+---
+
+### 2. [Real-Time-Industrial-Data-Platform](https://github.com/hamedkharazmi/real-time-industrial-data-platform) (NEW ⭐)
 End-to-end data pipeline for industrial sensor data with real-time ingestion, transformation, and analytics on GCP.
 
 Tech: Kafka • BigQuery • dbt • Kestra • Terraform  
@@ -33,35 +40,28 @@ Outcome: Scalable data platform for real-time monitoring and analytics
 
 ---
 
-### 2. CodePulse
-AI assistant for analyzing git history and explaining code evolution.  
-Tech: Python • LLMs • ChromaDB  
-Outcome: Developer onboarding and debugging tool
-
----
-
-### 3. Doc-Search-Engine-MCP
+### 3. [Doc-Search-Engine-MCP](https://github.com/hamedkharazmi/Doc-Search-Engine-MCP)  
 AI-powered document search engine using MCP tools.  
 Tech: Python • FastMCP • Vector DB  
 Outcome: RAG-ready knowledge base system
 
 ---
 
-### 4. CodeCollab
+### 4. [CodeCollab](https://github.com/hamedkharazmi/CodeCollab)  
 Real-time coding interview platform with session replay and sandboxed execution.  
 Tech: TypeScript • React • FastAPI  
 Outcome: Collaborative coding and assessment tool
 
 ---
 
-### 5. Impact-Scope
+### 5. [Impact-Scope](https://github.com/hamedkharazmi/Impact-Scope)  
 Change Impact Analysis tool for large C codebases.  
 Tech: Python • Static Analysis  
 Outcome: Code risk and dependency analysis system
 
 ---
 
-### 6. ResFPN-Classification
+### 6. [ResFPN-Classification](https://github.com/hamedkharazmi/ResFPN-Classificaion)  
 Satellite Image Classification using ResNet + Feature Pyramid Networks.  
 Tech: PyTorch • Python  
 Outcome: Geospatial AI pipeline for remote sensing imagery
