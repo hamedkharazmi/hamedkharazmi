@@ -2,108 +2,160 @@
 
 # Hi there 👋, I'm Hamed
 
-I'm an AI & Systems Engineer building production-ready intelligent systems, agent infrastructures, and data platforms. My work spans computer vision, deep learning, and large-scale data engineering systems — covering the full lifecycle from data ingestion and processing to model deployment and real-time serving.  
-Recently, I’ve also been building autonomous agent infrastructure systems focused on on-chain payments and economic AI agents.
+**AI Systems Engineer building production-grade agent infrastructure, LLM systems, and real-time data platforms.**
+
+I design and ship end-to-end AI systems — from data infrastructure and distributed pipelines to autonomous agents that can reason, call tools, and execute actions in production environments.
+
+My focus is on **AI systems that don’t just predict — they act.**
 
 ---
 
-## 🔬 What I Work On
+## ⚙️ Current Focus
 
-My work sits at the intersection of:
-
-### AI Systems & Agent Infrastructure
-Autonomous agents, tool-use systems, multi-agent orchestration, and payment-enabled AI workflows.
-
-### Computer Vision & 3D Vision
-Image/video processing, object detection, visual SLAM, point cloud analysis, and remote sensing pipelines.
-
-### Deep Learning & LLM Applications
-RAG systems, semantic retrieval, AI assistants, and real-time inference pipelines.
-
-### Data Engineering & AI Systems
-End-to-end data platforms, streaming pipelines, analytics engineering (dbt), and cloud-native architectures.
+- Agent infrastructure & autonomous execution systems
+- AI payment and economic layers (x402, EIP-3009, on-chain agent flows)
+- LLM-powered retrieval and tool-use systems (RAG, MCP, semantic orchestration)
+- Real-time data + ML infrastructure (streaming, analytics, and serving systems)
 
 ---
 
-## 🧠 Selected Projects & Systems
+## 🧠 What I Build
+
+### 🤖 Agent Systems & AI Infrastructure
+Designing autonomous agents that can:
+- discover and use external APIs
+- execute toolchains with reasoning loops
+- handle payment, authorization, and stateful workflows
+- operate without human-in-the-loop for execution
+
+### 💸 Agent Economies & Payment-Enabled AI
+Building systems where agents can:
+- autonomously pay for APIs and compute
+- execute HTTP 402 payment flows (x402)
+- sign and manage EIP-3009 authorization flows
+- participate in machine-to-machine economic systems
+
+### 🔎 LLM & Retrieval Systems
+- RAG architectures for production-scale knowledge systems
+- vector + hybrid retrieval pipelines
+- MCP-based tool orchestration
+- semantic memory and context routing systems
+
+### 📊 Data & ML Infrastructure
+- real-time streaming pipelines (Kafka, GCP)
+- analytics engineering (dbt, warehouse modeling)
+- ML training + serving pipelines
+- cloud-native distributed data systems
+
+---
+
+## 🚀 Selected Projects & Systems
 
 Here are some projects that showcase my work:
 
 ### 1. [AgentPay](https://github.com/hamedkharazmi/arc-agent-pay) (NEW ⭐)
-Python SDK for AI agents that autonomously pay for APIs using USDC on Arc Testnet via x402. Agents handle HTTP 402 payment flows, sign EIP-3009 authorizations, and continue execution without human approval or wallets in the hot path.  
+Python SDK enabling AI agents to autonomously pay for APIs using USDC via x402 + EIP-3009.
 
-Tech: Python • FastAPI • x402 • EIP-3009 • Arc Testnet • React  
-Outcome: Autonomous agent payment system with real on-chain settlement for APIs and AI inference  
+- Implements autonomous HTTP 402 payment resolution flow
+- Enables signed, non-custodial agent transactions
+- Removes human approval from API consumption loops
+- Designed for machine-to-machine economic execution
+
+**Impact:** foundational step toward autonomous agent economies
 
 ---
 
 ### 2. [CodePulse](https://github.com/hamedkharazmi/CodePulse)  
-Agent-Based AI assistant for analyzing git history and explaining code evolution.  
+Agent-based system that analyzes Git history and explains code evolution using LLM reasoning + retrieval.
 
-Tech: Python • LLMs • ChromaDB  
-Outcome: Developer onboarding and debugging tool  
+- reconstructs architectural evolution from commit history
+- generates contextual developer onboarding insights
+- supports repo-scale reasoning over code changes
 
 ---
 
 ### 3. [Real-Time-Industrial-Data-Platform](https://github.com/hamedkharazmi/real-time-industrial-data-platform)
-End-to-end data pipeline for industrial sensor data with real-time ingestion, transformation, and analytics on GCP.  
+End-to-end streaming analytics platform for industrial sensor data.
 
-Tech: Kafka • BigQuery • dbt • Kestra • Terraform  
-Outcome: Scalable data platform for real-time monitoring and analytics  
+- Kafka-based ingestion pipeline
+- dbt transformations for analytics modeling
+- GCP-based scalable warehouse architecture
+- real-time monitoring and alerting layer
 
 ---
 
 ### 4. [Doc-Search-Engine-MCP](https://github.com/hamedkharazmi/Doc-Search-Engine-MCP)  
-AI-powered document search engine using MCP tools.  
+MCP-based AI document retrieval system for large-scale knowledge bases.
 
-Tech: Python • FastMCP • Vector DB  
-Outcome: RAG-ready knowledge base system  
+- ingestion + indexing pipeline for documentation
+- semantic + vector search hybrid retrieval
+- tool-augmented LLM querying system
 
 ---
 
 ### 5. [CodeCollab](https://github.com/hamedkharazmi/CodeCollab)  
-Real-time coding interview platform with session replay and sandboxed execution.  
+Real-time collaborative coding environment with sandbox execution and session replay.
 
-Tech: TypeScript • React • FastAPI  
-Outcome: Collaborative coding and assessment tool  
+- multi-user real-time editing system
+- isolated execution sandbox
+- replayable coding sessions for interviews
 
 ---
 
 ### 6. [Impact-Scope](https://github.com/hamedkharazmi/Impact-Scope)  
-Change Impact Analysis tool for large C codebases.  
+Static analysis system for large-scale C codebases.
 
-Tech: Python • Static Analysis  
-Outcome: Code risk and dependency analysis system  
+- dependency graph generation
+- change impact analysis
+- risk surface detection for refactoring
 
 ---
 
 ### 7. [ResFPN-Classification](https://github.com/hamedkharazmi/ResFPN-Classificaion)  
-Satellite Image Classification using ResNet + Feature Pyramid Networks.  
+Satellite image classification pipeline using deep vision models.
 
-Tech: PyTorch • Python  
-Outcome: Geospatial AI pipeline for remote sensing imagery  
+- ResNet + Feature Pyramid Networks
+- geospatial data preprocessing pipeline
+- remote sensing inference system
 
 ---
 
-## ⚙️ Tech Stack
+## 🧰 Engineering Stack
 
-### Languages
-Python • C++ • MATLAB
+**Languages**
+Python • C++ • TypeScript • MATLAB
 
-### ML / DL
-PyTorch • TensorFlow • Scikit-Learn • OpenCV
+**AI / ML**
+PyTorch • TensorFlow • Scikit-learn • OpenCV
 
-### Data & AI Systems
-NumPy • Pandas • MLflow • dbt • Kafka
+**LLM Systems**
+RAG • Vector Databases • MCP • Tool-use frameworks • LLM APIs
 
-### LLM / AI Systems
-RAG • Vector Databases • Semantic Retrieval • LLM APIs
+**Data Systems**
+Kafka • dbt • BigQuery • PostgreSQL • Elasticsearch
 
-### Deployment & Infra
-Docker • Cloud ML Pipelines • Edge AI (NVIDIA)
+**Infrastructure**
+Docker • Cloud ML pipelines • GCP • distributed systems
 
-### Databases
-PostgreSQL • Elasticsearch • BigQuery • Vector Databases
+---
+
+## 🧭 Philosophy
+
+I treat AI systems as **distributed software systems, not models**.
+
+The core challenge is not building better models — it is building:
+- reliable agent control flows
+- safe tool execution layers
+- scalable retrieval + memory systems
+- economic constraints for autonomous agents
+
+---
+
+## 📫 Contact
+
+Email: hk.hamedkharazmi@gmail.com  
+LinkedIn: in/hamed-kharazmi  
+Telegram: @Hamed_7799
 
 <!--
 
