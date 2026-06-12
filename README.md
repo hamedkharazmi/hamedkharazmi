@@ -47,6 +47,7 @@ Outcome: Developer onboarding and debugging tool
 
 ### 3. [Real-Time-Industrial-Data-Platform](https://github.com/hamedkharazmi/real-time-industrial-data-platform)
 End-to-end data pipeline for industrial sensor data with real-time ingestion, transformation, and analytics on GCP.  
+
 Tech: Kafka • BigQuery • dbt • Kestra • Terraform  
 Outcome: Scalable data platform for real-time monitoring and analytics  
 
@@ -54,6 +55,7 @@ Outcome: Scalable data platform for real-time monitoring and analytics
 
 ### 4. [Doc-Search-Engine-MCP](https://github.com/hamedkharazmi/Doc-Search-Engine-MCP)  
 AI-powered document search engine using MCP tools.  
+
 Tech: Python • FastMCP • Vector DB  
 Outcome: RAG-ready knowledge base system  
 
@@ -61,6 +63,7 @@ Outcome: RAG-ready knowledge base system
 
 ### 5. [CodeCollab](https://github.com/hamedkharazmi/CodeCollab)  
 Real-time coding interview platform with session replay and sandboxed execution.  
+
 Tech: TypeScript • React • FastAPI  
 Outcome: Collaborative coding and assessment tool  
 
@@ -68,6 +71,7 @@ Outcome: Collaborative coding and assessment tool
 
 ### 6. [Impact-Scope](https://github.com/hamedkharazmi/Impact-Scope)  
 Change Impact Analysis tool for large C codebases.  
+
 Tech: Python • Static Analysis  
 Outcome: Code risk and dependency analysis system  
 
@@ -75,6 +79,7 @@ Outcome: Code risk and dependency analysis system
 
 ### 7. [ResFPN-Classification](https://github.com/hamedkharazmi/ResFPN-Classificaion)  
 Satellite Image Classification using ResNet + Feature Pyramid Networks.  
+
 Tech: PyTorch • Python  
 Outcome: Geospatial AI pipeline for remote sensing imagery  
 
