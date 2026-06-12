@@ -3,6 +3,7 @@
 # Hi there 👋, I'm Hamed
 
 I'm an AI & Machine Learning Engineer building production-ready intelligent systems and data platforms. My work spans computer vision, deep learning, and large-scale data engineering systems — covering the full lifecycle from data ingestion and processing to model deployment and real-time serving.
+Recently, I’ve also been building autonomous agent infrastructure systems focused on on-chain payments and economic AI agents.
 
 ---
 
@@ -21,47 +22,53 @@ End-to-end data platforms, streaming pipelines, analytics engineering (dbt), and
 
 ---
 
-## 🧠 Selected Work
+## 🧠 Selected Projects & Systems
 
 Here are some projects that showcase my work:
 
-### 1. [CodePulse](https://github.com/hamedkharazmi/CodePulse)  
+### 1. [AgentPay](https://github.com/hamedkharazmi/arc-agent-pay) (NEW ⭐)
+Python SDK + full-stack platform for autonomous AI agents that discover, purchase, and consume API services using USDC on Arc Testnet via x402 payment flows. Agents handle real HTTP 402 challenges, sign EIP-3009 authorizations off-chain, and settle payments on-chain automatically — enabling fully autonomous paid API execution without keys, approvals, or wallet prompts.
+Tech: Python • FastAPI • httpx • React • SQLite • TanStack Start • Arc Testnet • USDC • EIP-3009 • x402
+Outcome: End-to-end economic agent system with autonomous on-chain payments, live execution tracing, and real-time agent orchestration.
+
+---
+
+### 2. [CodePulse](https://github.com/hamedkharazmi/CodePulse)  
 Agent-Based AI assistant for analyzing git history and explaining code evolution.  
 Tech: Python • LLMs • ChromaDB  
 Outcome: Developer onboarding and debugging tool
 
 ---
 
-### 2. [Real-Time-Industrial-Data-Platform](https://github.com/hamedkharazmi/real-time-industrial-data-platform) (NEW ⭐)
+### 3. [Real-Time-Industrial-Data-Platform](https://github.com/hamedkharazmi/real-time-industrial-data-platform)
 End-to-end data pipeline for industrial sensor data with real-time ingestion, transformation, and analytics on GCP.
-
 Tech: Kafka • BigQuery • dbt • Kestra • Terraform  
 Outcome: Scalable data platform for real-time monitoring and analytics
 
 ---
 
-### 3. [Doc-Search-Engine-MCP](https://github.com/hamedkharazmi/Doc-Search-Engine-MCP)  
+### 4. [Doc-Search-Engine-MCP](https://github.com/hamedkharazmi/Doc-Search-Engine-MCP)  
 AI-powered document search engine using MCP tools.  
 Tech: Python • FastMCP • Vector DB  
 Outcome: RAG-ready knowledge base system
 
 ---
 
-### 4. [CodeCollab](https://github.com/hamedkharazmi/CodeCollab)  
+### 5. [CodeCollab](https://github.com/hamedkharazmi/CodeCollab)  
 Real-time coding interview platform with session replay and sandboxed execution.  
 Tech: TypeScript • React • FastAPI  
 Outcome: Collaborative coding and assessment tool
 
 ---
 
-### 5. [Impact-Scope](https://github.com/hamedkharazmi/Impact-Scope)  
+### 6. [Impact-Scope](https://github.com/hamedkharazmi/Impact-Scope)  
 Change Impact Analysis tool for large C codebases.  
 Tech: Python • Static Analysis  
 Outcome: Code risk and dependency analysis system
 
 ---
 
-### 6. [ResFPN-Classification](https://github.com/hamedkharazmi/ResFPN-Classificaion)  
+### 7. [ResFPN-Classification](https://github.com/hamedkharazmi/ResFPN-Classificaion)  
 Satellite Image Classification using ResNet + Feature Pyramid Networks.  
 Tech: PyTorch • Python  
 Outcome: Geospatial AI pipeline for remote sensing imagery
